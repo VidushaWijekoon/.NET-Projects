@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\www\\.NET\\Fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C450280D-C80E-4E4D-B2D9-904FD82A7F16}|Fundamentals\\Fundamentals.csproj|d:\\project\\www\\.net\\fundamentals\\fundamentals\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C450280D-C80E-4E4D-B2D9-904FD82A7F16}|Fundamentals\\Fundamentals.csproj|solutionrelative:fundamentals\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C450280D-C80E-4E4D-B2D9-904FD82A7F16}|Fundamentals\\Fundamentals.csproj|d:\\project\\www\\.net\\fundamentals\\fundamentals\\workingwithdateandtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C450280D-C80E-4E4D-B2D9-904FD82A7F16}|Fundamentals\\Fundamentals.csproj|solutionrelative:fundamentals\\workingwithdateandtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C450280D-C80E-4E4D-B2D9-904FD82A7F16}|Fundamentals\\Fundamentals.csproj|d:\\project\\www\\.net\\fundamentals\\fundamentals\\workingwithstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C450280D-C80E-4E4D-B2D9-904FD82A7F16}|Fundamentals\\Fundamentals.csproj|solutionrelative:fundamentals\\workingwithstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkingWithDateAndTime.cs",
+              "DocumentMoniker": "D:\\Project\\www\\.NET\\Fundamentals\\Fundamentals\\WorkingWithDateAndTime.cs",
+              "RelativeDocumentMoniker": "Fundamentals\\WorkingWithDateAndTime.cs",
+              "ToolTip": "D:\\Project\\www\\.NET\\Fundamentals\\Fundamentals\\WorkingWithDateAndTime.cs",
+              "RelativeToolTip": "Fundamentals\\WorkingWithDateAndTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:47:10.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkingWithStrings.cs",
+              "DocumentMoniker": "D:\\Project\\www\\.NET\\Fundamentals\\Fundamentals\\WorkingWithStrings.cs",
+              "RelativeDocumentMoniker": "Fundamentals\\WorkingWithStrings.cs",
+              "ToolTip": "D:\\Project\\www\\.NET\\Fundamentals\\Fundamentals\\WorkingWithStrings.cs",
+              "RelativeToolTip": "Fundamentals\\WorkingWithStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:29:52.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\Project\\www\\.NET\\Fundamentals\\Fundamentals\\MainClass.cs",
+              "RelativeDocumentMoniker": "Fundamentals\\MainClass.cs",
+              "ToolTip": "D:\\Project\\www\\.NET\\Fundamentals\\Fundamentals\\MainClass.cs",
+              "RelativeToolTip": "Fundamentals\\MainClass.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:06:36.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
