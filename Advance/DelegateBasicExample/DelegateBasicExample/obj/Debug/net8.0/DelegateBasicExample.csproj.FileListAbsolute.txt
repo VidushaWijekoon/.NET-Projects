@@ -1,0 +1,15 @@
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.exe
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.deps.json
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.runtimeconfig.json
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.dll
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\bin\Debug\net8.0\DelegateBasicExample.pdb
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfoInputs.cache
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.AssemblyInfo.cs
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.csproj.CoreCompileInputs.cache
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.sourcelink.json
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.dll
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\refint\DelegateBasicExample.dll
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.pdb
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\DelegateBasicExample.genruntimeconfig.cache
+D:\Project\www\.NET\Advance\DelegateBasicExample\DelegateBasicExample\obj\Debug\net8.0\ref\DelegateBasicExample.dll
